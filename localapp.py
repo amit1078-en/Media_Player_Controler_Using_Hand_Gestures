@@ -85,7 +85,7 @@ letting you control your device from a distance.
     <h3 style="color:#f63366 ;text-align:center;">Demo of using Hand gestures to control Media player</h3>
     """
         st.markdown(html_temp3, unsafe_allow_html=True)
-        st.video("demo.mp4")
+        st.video("Demo.mp4")
 
 
     elif add_pages =='Gesture Control Page':

@@ -66,7 +66,7 @@ letting you control your device from a distance.
             padding: 14px 25px;
             text-align: center;
             text-decoration: none;
-            display: inline-block; " href="https://github.com/amit1078-en" target="_blank">Download Files</a>
+            display: inline-block; " href="https://github.com/amit1078-en/Media_Player_Controler_Using_Hand_Gestures" target="_blank">Download Files</a>
             """
                 st.markdown(html_temp4, unsafe_allow_html=True)
                 st.subheader("Run App using the following command:")
